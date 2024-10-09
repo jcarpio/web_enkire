@@ -41,16 +41,16 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
           </span> */}
           <p className="text-left text-sm text-muted-foreground">
              <Link
-              href={"mailto://siteConfig.mailSupport"}
+              href="mailto://support@enkire.com"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
             >
               
-              Contact us{" "}
+              Contact us {"     "}
             </Link>
             
-            Open source project started by {" "}
+            &nbsp;&nbsp;&nbsp;Website inspired by {" "}
             <Link
               href={siteConfig.links.twitter}
               target="_blank"
