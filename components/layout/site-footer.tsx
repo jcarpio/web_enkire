@@ -52,7 +52,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
             
             &nbsp;&nbsp;&nbsp;Website inspired by {" "}
             <Link
-              href={siteConfig.links.twitter}
+              href="https://twitter.com/miickasmt"
               target="_blank"
               rel="noreferrer"
               className="font-medium underline underline-offset-4"
@@ -71,15 +71,6 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
             
           </p>
 
-          <div className="flex items-center gap-3">
-            <Link
-              href={siteConfig.links.github}
-              target="_blank"
-              rel="noreferrer"
-              className="font-medium underline underline-offset-4"
-            >
-              <Icons.gitHub className="size-5" />
-            </Link>
             <ModeToggle />
           </div>
         </div>
