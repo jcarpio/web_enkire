@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
 
 export const footerLinks: SidebarNavItem[] = [
   {
-    title: "Company",
+    title: "",
     items: [
       // { title: "About", href: "#" },
       // { title: "Enterprise", href: "#" },
