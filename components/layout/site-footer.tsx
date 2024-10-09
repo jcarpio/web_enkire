@@ -70,7 +70,8 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
             </Link>
             
           </p>
-
+          
+          <div className="flex items-center gap-3">
             <ModeToggle />
           </div>
         </div>
