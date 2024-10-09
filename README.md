@@ -28,6 +28,10 @@ Empower your next project with the stack of Next.js 14, Prisma, Neon, Auth.js v5
 <br/>
 All seamlessly integrated with the SaaS Starter to accelerate your development and saas journey.
 
+## Tech Stack
+
+This project is built upon [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter), an open-source project licensed under the MIT License. It provides an excellent SaaS boilerplate for Next.js and Stripe integration. We extend our sincere gratitude to the original authors for their valuable contribution.
+
 ## Installation
 
 Clone & create this repo locally with the following command:
