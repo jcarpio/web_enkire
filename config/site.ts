@@ -10,6 +10,7 @@ export const siteConfig: SiteConfig = {
   url: site_url,
   ogImage: `${site_url}/_static/og.jpg`,
   links: {
+    github: "https://github.com
   },
   mailSupport: "support@enkire.com",
 };
