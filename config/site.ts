@@ -18,12 +18,12 @@ export const siteConfig: SiteConfig = {
 
 export const footerLinks: SidebarNavItem[] = [
   {
-    title: "",
+    title: "Enkire OÜ",
     items: [
       // { title: "About", href: "#" },
       // { title: "Enterprise", href: "#" },
-      // { title: "Terms", href: "/terms" },
-      // { title: "Privacy", href: "/privacy" },
+      { title: "Terms", href: "/terms" },
+      { title: "Privacy", href: "/privacy" },
     ],
   },
 ];
