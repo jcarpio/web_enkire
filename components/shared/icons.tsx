@@ -1,5 +1,6 @@
 import {
   AlertTriangle,
+  Aperture,
   ArrowRight,
   ArrowUpRight,
   BookOpen,
@@ -103,7 +104,7 @@ export const Icons = {
   home: Home,
   laptop: Laptop,
   lineChart: LineChart,
-  logo: Puzzle,
+  logo: Aperture,
   media: Image,
   messages: MessagesSquare,
   moon: Moon,
