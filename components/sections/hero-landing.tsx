@@ -34,7 +34,7 @@ export default async function HeroLanding() {
           </span>
           technology, love and passion at the {" "}
           <span className="text-gradient_indigo-purple font-extrabold">
-            service of the world
+            service of the world.
           </span>
         </h1>
 
