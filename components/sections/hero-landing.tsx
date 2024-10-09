@@ -30,7 +30,7 @@ export default async function HeroLanding() {
 
         <h1 className="text-balance font-urban text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl lg:text-[66px]">
           <span className="text-gradient_indigo-purple font-extrabold">
-            Enkire {" "}
+            Enkire. {" "}
           </span>
           technology, love and passion at the {" "}
           <span className="text-gradient_indigo-purple font-extrabold">
