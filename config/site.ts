@@ -21,7 +21,7 @@ export const footerLinks: SidebarNavItem[] = [
     title: "Enkire OÜ",
     items: [
       // { title: "About", href: "#" },
-      // { title: "Enterprise", href: "#" },
+      { title: "Enterprise", href: "#" },
       { title: "Terms", href: "/terms" },
       { title: "Privacy", href: "/privacy" },
     ],
