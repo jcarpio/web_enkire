@@ -26,4 +26,9 @@ export const footerLinks: SidebarNavItem[] = [
       { title: "Privacy", href: "/privacy" },
     ],
   },
+   {
+    title: "Projects",
+    items: [
+      { title: "DremBez", href: "https://www.dreambez.com" },
+    ],
 ];
