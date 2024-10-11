@@ -31,4 +31,6 @@ export const footerLinks: SidebarNavItem[] = [
     items: [
       { title: "DremBez", href: "https://www.dreambez.com" },
     ],
+   },
+  }
 ];
